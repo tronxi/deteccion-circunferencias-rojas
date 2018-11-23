@@ -1,0 +1,8 @@
+﻿  ejemplo1.cpp
+c:\programas\cpp ocv\ejemplo1\ejemplo1\ejemplo1\ejemplo1.cpp(61): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código
+  18 of 450 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    39 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  ejemplo1.vcxproj -> C:\programas\cpp OCV\ejemplo1\ejemplo1\x64\Release\ejemplo1.exe
